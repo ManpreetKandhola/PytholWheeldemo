@@ -1,8 +1,0 @@
-setup
-UDFs/__init__.py
-UDFs/function1.py
-UDFs/function2.py
-testfuncs.egg-info/PKG-INFO
-testfuncs.egg-info/SOURCES.txt
-testfuncs.egg-info/dependency_links.txt
-testfuncs.egg-info/top_level.txt
